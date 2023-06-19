@@ -12,7 +12,7 @@ import (
 	"os"
 	"syscall"
 
-	"golang.org/x/net/ipv6"
+	"github.com/AndrienkoAleksandr/net/ipv6"
 )
 
 func protocolNotSupported(err error) bool {

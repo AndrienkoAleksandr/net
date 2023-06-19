@@ -15,7 +15,7 @@ import (
 	"os"
 	"sort"
 
-	"golang.org/x/net/http2/hpack"
+	"github.com/AndrienkoAleksandr/net/http2/hpack"
 )
 
 // http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-07#appendix-B

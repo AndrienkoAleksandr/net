@@ -12,7 +12,7 @@ import (
 	"os"
 	"syscall"
 
-	"golang.org/x/net/ipv4"
+	"github.com/AndrienkoAleksandr/net/ipv4"
 )
 
 func protocolNotSupported(err error) bool {

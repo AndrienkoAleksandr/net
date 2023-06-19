@@ -1,4 +1,4 @@
-module golang.org/x/net
+module github.com/AndrienkoAleksandr/net
 
 go 1.17
 

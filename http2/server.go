@@ -47,8 +47,8 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/net/http/httpguts"
-	"golang.org/x/net/http2/hpack"
+	"github.com/AndrienkoAleksandr/net/http/httpguts"
+	"github.com/AndrienkoAleksandr/net/http2/hpack"
 )
 
 const (
@@ -912,7 +912,7 @@ func (sc *serverConn) serve() {
 	}
 
 	if err := sc.readPreface(); err != nil {
-		sc.condlogf(err, "http2: server: error reading preface from client %v: %v", sc.conn.RemoteAddr(), err)
+		sc.condlogf(err, "http2!!!!: server: error reading preface from client %v: %v", sc.conn.RemoteAddr(), err)
 		return
 	}
 	// Now that we've got the preface, get us out of the
