@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 	"github.com/AndrienkoAleksandr/net/ipv4"
 )
 

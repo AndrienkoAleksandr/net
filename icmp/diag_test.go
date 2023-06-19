@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/AndrienkoAleksandr/net/icmp"
-	"github.com/AndrienkoAleksandr/net/internal/iana"
+	"github.com/AndrienkoAleksandr/net/intern/iana"
 	"github.com/AndrienkoAleksandr/net/ipv4"
 	"github.com/AndrienkoAleksandr/net/ipv6"
 	"github.com/AndrienkoAleksandr/net/nettest"
