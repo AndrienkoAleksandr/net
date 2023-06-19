@@ -11,7 +11,7 @@ import (
 	"net"
 	"unsafe"
 
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 var compatFreeBSD32 bool // 386 emulation on amd64

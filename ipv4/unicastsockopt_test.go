@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/AndrienkoAleksandr/net/internal/iana"
+	"github.com/AndrienkoAleksandr/net/intern/iana"
 	"github.com/AndrienkoAleksandr/net/ipv4"
 	"github.com/AndrienkoAleksandr/net/nettest"
 )

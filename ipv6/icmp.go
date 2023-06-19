@@ -4,7 +4,7 @@
 
 package ipv6
 
-import "github.com/AndrienkoAleksandr/net/internal/iana"
+import "github.com/AndrienkoAleksandr/net/intern/iana"
 
 // BUG(mikio): On Windows, methods related to ICMPFilter are not
 // implemented.

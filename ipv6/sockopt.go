@@ -4,7 +4,7 @@
 
 package ipv6
 
-import "github.com/AndrienkoAleksandr/net/internal/socket"
+import "github.com/AndrienkoAleksandr/net/intern/socket"
 
 // Sticky socket options
 const (

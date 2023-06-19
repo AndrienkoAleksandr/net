@@ -9,7 +9,7 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 	"github.com/AndrienkoAleksandr/net/ipv4"
 )
 

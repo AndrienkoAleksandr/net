@@ -9,8 +9,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/AndrienkoAleksandr/net/internal/iana"
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/iana"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 type rawOpt struct {

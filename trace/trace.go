@@ -79,7 +79,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/AndrienkoAleksandr/net/internal/timeseries"
+	"github.com/AndrienkoAleksandr/net/intern/timeseries"
 )
 
 // DebugUseAfterFinish controls whether to debug uses of Trace values after finishing.

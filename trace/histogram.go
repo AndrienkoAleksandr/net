@@ -14,7 +14,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/AndrienkoAleksandr/net/internal/timeseries"
+	"github.com/AndrienkoAleksandr/net/intern/timeseries"
 )
 
 const (

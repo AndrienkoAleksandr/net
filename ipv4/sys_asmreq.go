@@ -12,7 +12,7 @@ import (
 	"net"
 	"unsafe"
 
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 var errNoSuchInterface = errors.New("no such interface")

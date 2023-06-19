@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AndrienkoAleksandr/net/internal/socks"
-	"github.com/AndrienkoAleksandr/net/internal/sockstest"
+	"github.com/AndrienkoAleksandr/net/intern/socks"
+	"github.com/AndrienkoAleksandr/net/intern/sockstest"
 )
 
 func TestDial(t *testing.T) {

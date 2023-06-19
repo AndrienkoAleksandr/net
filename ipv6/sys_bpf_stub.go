@@ -9,7 +9,7 @@ package ipv6
 
 import (
 	"github.com/AndrienkoAleksandr/net/bpf"
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 func (so *sockOpt) setAttachFilter(c *socket.Conn, f []bpf.RawInstruction) error {

@@ -8,8 +8,8 @@ import (
 	"net"
 	"syscall"
 
-	"github.com/AndrienkoAleksandr/net/internal/iana"
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/iana"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 
 	"golang.org/x/sys/unix"
 )

@@ -8,7 +8,7 @@ import (
 	"context"
 	"net"
 
-	"github.com/AndrienkoAleksandr/net/internal/socks"
+	"github.com/AndrienkoAleksandr/net/intern/socks"
 )
 
 // SOCKS5 returns a Dialer that makes SOCKSv5 connections to the given

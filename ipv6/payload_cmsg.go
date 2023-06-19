@@ -10,7 +10,7 @@ package ipv6
 import (
 	"net"
 
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 // ReadFrom reads a payload of the received IPv6 datagram, from the

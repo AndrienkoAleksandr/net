@@ -9,8 +9,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/AndrienkoAleksandr/net/internal/iana"
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/iana"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 // Note that RFC 3542 obsoletes RFC 2292 but OS X Snow Leopard and the

@@ -7,7 +7,7 @@
 
 package ipv4
 
-import "github.com/AndrienkoAleksandr/net/internal/socket"
+import "github.com/AndrienkoAleksandr/net/intern/socket"
 
 func setControlMessage(c *socket.Conn, opt *rawOpt, cf ControlFlags, on bool) error {
 	return errNotImplemented

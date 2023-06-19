@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AndrienkoAleksandr/net/internal/sockstest"
+	"github.com/AndrienkoAleksandr/net/intern/sockstest"
 	"github.com/AndrienkoAleksandr/net/nettest"
 )
 

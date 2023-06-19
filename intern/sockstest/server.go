@@ -10,7 +10,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/AndrienkoAleksandr/net/internal/socks"
+	"github.com/AndrienkoAleksandr/net/intern/socks"
 	"github.com/AndrienkoAleksandr/net/nettest"
 )
 

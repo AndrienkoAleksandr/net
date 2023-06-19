@@ -11,7 +11,7 @@ import (
 	"unsafe"
 
 	"github.com/AndrienkoAleksandr/net/bpf"
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 	"golang.org/x/sys/unix"
 )
 

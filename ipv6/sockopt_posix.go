@@ -13,7 +13,7 @@ import (
 	"unsafe"
 
 	"github.com/AndrienkoAleksandr/net/bpf"
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 func (so *sockOpt) getMulticastInterface(c *socket.Conn) (*net.Interface, error) {

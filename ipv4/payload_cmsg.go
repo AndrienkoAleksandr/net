@@ -10,7 +10,7 @@ package ipv4
 import (
 	"net"
 
-	"github.com/AndrienkoAleksandr/net/internal/socket"
+	"github.com/AndrienkoAleksandr/net/intern/socket"
 )
 
 // ReadFrom reads a payload of the received IPv4 datagram, from the

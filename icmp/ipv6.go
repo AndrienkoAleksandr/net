@@ -7,7 +7,7 @@ package icmp
 import (
 	"net"
 
-	"github.com/AndrienkoAleksandr/net/internal/iana"
+	"github.com/AndrienkoAleksandr/net/intern/iana"
 )
 
 const ipv6PseudoHeaderLen = 2*net.IPv6len + 8
